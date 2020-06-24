@@ -41,7 +41,7 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 ### Java Source code
 
 
-'''java
+'''Java
 
 	import java.util.Scanner;
 

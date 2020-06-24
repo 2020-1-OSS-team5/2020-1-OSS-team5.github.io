@@ -67,8 +67,8 @@ COVID-19 발생구간과 장르, 성별, 연령별로 나눠 시청률의 비교
 자료구조의 코딩 테스트를 연습하던 중, 버블정렬(Bubble Sort)를 공유함
 
 ### Bubble Sort란?
-* 두 인접한 원소를 검사하여 자리를 바꾸는 과정을 반복하며 정렬하는 방법
-![bubble]("https://gmlwjd9405.github.io/images/algorithm-bubble-sort/bubble-sort.png")
+* 두 인접한 원소를 검사하여 자리를 바꾸는 과정을 반복하며 정렬하는 방법  
+<img src="https://gmlwjd9405.github.io/images/algorithm-bubble-sort/bubble-sort.png"> 
 > 랜덤으로 1부터 100사이의 임의의 숫자 5개를 생성해 For문을 이용해 오름차순으로 정렬함
 
 ```python

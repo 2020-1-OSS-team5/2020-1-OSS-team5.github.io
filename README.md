@@ -78,7 +78,7 @@ COVID-19 발생구간과 장르, 성별, 연령별로 나눠 시청률의 비교
 
 ### Bubble Sort란?
 * 두 인접한 원소를 검사하여 자리를 바꾸는 과정을 반복하며 정렬하는 방법  
-<img src="https://gmlwjd9405.github.io/images/algorithm-bubble-sort/bubble-sort.png"> 
+<img src="https://gmlwjd9405.github.io/images/algorithm-bubble-sort/bubble-sort.png">   
 > 랜덤으로 1부터 100사이의 임의의 숫자 5개를 생성해 For문을 이용해 오름차순으로 정렬함
 
 ```python
@@ -98,7 +98,7 @@ COVID-19 발생구간과 장르, 성별, 연령별로 나눠 시청률의 비교
         print("정렬 후 :", bubbleSort(arr))
 ```
 
-*본 코드는 아직 미흡한 코드이므로, 더 나은 방법이나 의견 요청
+* 본 코드는 아직 미흡한 코드이므로, 더 나은 방법이나 의견 요청
 
 ## 마무리
 

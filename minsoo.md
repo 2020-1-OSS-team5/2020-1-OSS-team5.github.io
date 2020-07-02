@@ -41,7 +41,7 @@
 ### Hacknet
 
 <img src = "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSdvG4F1jIbI4TyACKDy48ndTPILE9u8XO3hQ&usqp=CAU" height="200">
-* CLI와 GUI를 적절히 합쳐놓은 해킹시뮬레이션 게임이다.[트레일러](https://www.youtube.com/watch?v=A-jN16bNPhk "hacknet trailer")
+* CLI와 GUI를 적절히 합쳐놓은 해킹시뮬레이션 게임이다.[트레일러](https://www.youtube.com/watch?v=A-jN16bNPhk)
 
 ## 처음만든 포커 탑 게임
 ```python

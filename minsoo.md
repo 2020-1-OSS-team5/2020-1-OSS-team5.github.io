@@ -30,7 +30,7 @@
 
 ## 교과목
 ### 좋았던 교과목
-1. 데이터 사이언스 개론 : 멀게만 느껴졌던 인공지능이 한걸음 가깝게 느껴지게한 교과목.  
+1. 데이터 사이언스 개론 : 멀게만 느껴졌던 **인공지능**이 한걸음 가깝게 느껴지게한 교과목.  
 2. 컴퓨터 데이터 구조 : 실제로 쓰이는 자료구조를 python으로 직접 만들어보면서 좀 더 잘 이해할 수 있는 기회가 주어진 교과목.  
 
 ### 기대되는 교과목  
@@ -41,7 +41,7 @@
 ### Hacknet
 
 <img src = "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSdvG4F1jIbI4TyACKDy48ndTPILE9u8XO3hQ&usqp=CAU" height="200">
-* CLI와 GUI를 적절히 합쳐놓은 해킹시뮬레이션 게임이다.[트레일러](https://www.youtube.com/watch?v=A-jN16bNPhk)
+* CLI와 GUI를 적절히 합쳐놓은 해킹 시뮬레이션 게임이다.[트레일러](http://www.youtube.com/watch?v=A-jN16bNPhk "Hacknet tailer")
 
 ## 처음만든 포커 탑 게임
 ```python

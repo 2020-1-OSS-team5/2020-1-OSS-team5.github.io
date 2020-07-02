@@ -39,9 +39,9 @@
 ## 재밌게 플레이한 관련 게임
 ### Hacknet
 
-<img src = "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSdvG4F1jIbI4TyACKDy48ndTPILE9u8XO3hQ&usqp=CAU" height="200">
 CLI와 GUI를 적절히 합쳐놓은 해킹 시뮬레이션 게임이다.트레일러는 [여기](https://www.youtube.com/watch?v=A-jN16bNPhk "Hacknet tailer")
-* CLI를 처음 접하게 된 것이 이 게임이 아니였나 싶다.
+CLI를 처음 접하게 된 것이 이 게임이 아니였나 싶다.
+<img src = "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSdvG4F1jIbI4TyACKDy48ndTPILE9u8XO3hQ&usqp=CAU" height="200">
 
 ## 처음만든 포커 탑 게임
 ```python

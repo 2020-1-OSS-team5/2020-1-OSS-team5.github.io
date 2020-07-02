@@ -43,7 +43,72 @@
 ## 재밌게 플레이한 관련 게임
 ### Hacknet
 
-<img src = https://store.steampowered.com/app/365450/Hacknet/>
-* CLI와 GUI를 적절히 합쳐놓은 해킹시뮬레이션 게임이다.[트레일러](https://www.youtube.com/watch?v=A-jN16bNPhk)
+<img src = https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSdvG4F1jIbI4TyACKDy48ndTPILE9u8XO3hQ&usqp=CAU>
+* CLI와 GUI를 적절히 합쳐놓은 해킹시뮬레이션 게임이다.[트레일러](https://www.youtube.com/watch?v=A-jN16bNPhk/ "hacknet trailer")
+
+## 처음만든 포커 탑 게임
+```python
+import random
+
+def get_card():
+    num = random.randint(1,13)
+    if num == 1 :
+        num = "A"
+    elif num == 11 :
+        num = "J"
+    elif num == 12 :
+        num = "Q"
+    elif num == 13 :
+        num = "K"
+    shape = random.choice(["Spade","Heart","Diamond","Clover"])
+    card = str(num)+" "+str(shape)
+
+    global user_hand; global cpu_hand
+
+    if (card in user_hand) or (card in cpu_hand) :
+        return get_card()
+    else :
+        return card
 
 
+def top_judgment(user_hand,cpu_hand):
+    user_hand = user_hand.split()
+    cpu_hand = cpu_hand.split()
+
+    hand = [user_hand,cpu_hand]
+    score = [0,0]
+
+    for i in range(2):
+        if 'A' in hand[i]:
+            score[i] += 14
+        elif 'J' in hand[i]:
+            score[i] += 11
+        elif 'Q' in hand[i]:
+            score[i] += 12
+        elif 'K' in hand[i]:
+            score[i] += 13
+        else :
+            score[i] += int(hand[i][0])
+
+    shape = ["Spade","Diamond","Heart","Clover"]
+
+    print('User hand',user_hand ,'\n Cpu hand',cpu_hand)
+    if score[0] == score[1]:
+        if shape.index(hand[0][1]) < shape.index(hand[1][1]):
+            print('"You Win!!"')
+        else:
+            print('"You Lose"')
+    else :
+        if score[0] > score[1]:
+            print('"You Win!!"')
+        else:
+            print('"You Lose"')
+
+user_hand = ''; cpu_hand = ''
+user_hand = get_card()
+cpu_hand = get_card()
+
+print("당신의 핸드카드",user_hand)
+
+top_judgment(user_hand,cpu_hand)
+```

@@ -35,13 +35,13 @@
 
 ### 기대되는 교과목  
 1. DB설계와 활용 : 빅데이터에도 관심이 많기 때문에 데이터베이스 개념에도 관심이 있음.
-2. 데이이터 인공지능 : 인공지능을 직접 설계하고 만들어 볼 수 있을 것 같아서.  
+2. 데이터 인공지능 : 인공지능을 직접 설계하고 만들어 볼 수 있을 것 같아서.  
 
 ## 재밌게 플레이한 관련 게임
 ### Hacknet
 
 <img src = "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSdvG4F1jIbI4TyACKDy48ndTPILE9u8XO3hQ&usqp=CAU" height="200">
-* CLI와 GUI를 적절히 합쳐놓은 해킹시뮬레이션 게임이다.[트레일러](https://www.youtube.com/watch?v=A-jN16bNPhk/ "hacknet trailer")
+* CLI와 GUI를 적절히 합쳐놓은 해킹시뮬레이션 게임이다.[트레일러](https://www.youtube.com/watch?v=A-jN16bNPhk "hacknet trailer")
 
 ## 처음만든 포커 탑 게임
 ```python

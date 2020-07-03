@@ -115,6 +115,7 @@
   <img src="https://target.scene7.com/is/image/Target/GUEST_41c1ab17-83d0-4842-a8d3-fdd3f3e0d4a1?wid=488&hei=488&fmt=pjpeg" width="200">
  
   > 5 Seconds Of Summer - YoungBlood
+  
 ## 재미있게 들었던 교과목
 - **CT or DT** : 작년 과목이지만 우선 암기보단 이해 위주로 항상 끝없이 생각하고 그 생각을 표현하는 방법을 배우고 조원들과의 마찰도 해결할 수 있게끔 수업이 구성되어서 재밌었다.
 
